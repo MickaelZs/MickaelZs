@@ -47,15 +47,6 @@
   - Conceitos de AWS Cloud
   - Segurança na Nuvem
   - Arquiteturas e Serviços AWS
----
-
-## 🔥 Streak
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MickaelZs&theme=tokyonight"/>
-
-</div>
 
 ---
 
