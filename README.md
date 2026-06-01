@@ -36,10 +36,17 @@
 
 ## 🏆 Certificações
 
-| Certificação | Instituição |
-|-------------|------------|
-| ☁️ AWS Academy Cloud Foundations | Amazon Web Services (AWS) |
+<div align="center">
 
+<img src="https://img.shields.io/badge/AWS_Academy-Cloud_Foundations-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+
+</div>
+
+- ☁️ **AWS Academy Cloud Foundations**
+  - Fundamentos de Computação em Nuvem
+  - Conceitos de AWS Cloud
+  - Segurança na Nuvem
+  - Arquiteturas e Serviços AWS
 ---
 
 ## 🔥 Streak
