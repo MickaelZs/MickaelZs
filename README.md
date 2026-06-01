@@ -34,15 +34,11 @@
 
 ---
 
-## 📊 Estatísticas
+## 🏆 Certificações
 
-<div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=MickaelZs&show_icons=true&theme=tokyonight"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MickaelZs&layout=compact&theme=tokyonight"/>
-
-</div>
+| Certificação | Instituição |
+|-------------|------------|
+| ☁️ AWS Academy Cloud Foundations | Amazon Web Services (AWS) |
 
 ---
 
